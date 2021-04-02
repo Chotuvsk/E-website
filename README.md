@@ -1,76 +1,27 @@
-# E-website
+# ShoppingFrontEnd
 
-E-commerce is fast gaining ground as an accepted and used business paradigm. More and more business houses are implementing web sites providing functionality for performing commercial transactions over the web. It is reasonable to say that  the process of shopping on the web is becoming commonplace.
-The objective of this project is to develop a  general purpose  e-commerce store where any kind of product can be bought from the comfort of home through  the  Internet. However, for implementation purposes, this paper will deal with an online shopping for baby product
-An online store is a virtual  store on the Internet  where  customers  can  browse  the catalog and select products of interest. The selected items may be collected in a shopping  cart. At checkout time, the  items  in  the   shopping   cart   will  be  presented as an order. At that time, more information will be needed to complete the transaction. Usually, the customer will be asked to fill or select a billing  address,  a  shipping  address, a shipping option, and payment information such as bKash, or Cash on  Delivery. An e-mail notification is sent to the customer as soon as the order is placed.
- 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0-next.4.
 
+## Development server
 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Code scaffolding
 
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-What is E-Commerce
+## Build
 
-•	Commonly known as Electronic Marketing.
-•	“It consist of buying and selling goods and services over an  electronic systems Such as the internet and other  computer networks.”
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-SYSTEM
+## Running unit tests
 
-	Our System is an e-commerce website from where people  can buy products online.
-		Admin monitors the activity of the users and checks the  transactions.
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+## Running end-to-end tests
 
-PROJECT DESCRIPTION
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-	Only registered member can purchase multiple products regardless of quantity. 
-	Home Page Consists of products.
-	Login Page (Username, Password, Forgot Password).
-	Cart Page consists of number of products customers chosen.
+## Further help
 
-DETAILS
-	User can view and purchase products.
-	Operator can excess add option and can view everything of admin panel.
-	An Admin has some extra privilege including all privilege of visitor and user.
-	Operator can add product, edit product, update and remove product.
-	Can access users some information.
-	Admin can add products, edit product information and add/remove product.
-	Admin can add user, edit user information and can remove user.
-
-DESIGN AND DEVELOPMENT ENVIRONMENT
-
-	HTML5
-	CSS3
-	MySQL
-	Angular JS
-
-FEATURES
-	Login
-	Category List  
-	Product List
-	Product Price
-	Shopping Cart
-
-LANGUAGES
-
-o	HTML
-o	CSS 
-o	MySQL
-TOOLS
-o	Angular
-o	SQL Server
-
-ADVANTAGES OF E-COMMERCE
-
-	Faster buying/selling procedure, as well as easy to find products.
-	Buying/selling 24/7.
-	More reach to customers, there is no theoretical geographic limitations.
-	Low operational costs and better quality of services.
-	No need of physical company set-ups.
-	Easy to start and manage a business.
-
-DISADVANTAGES OF E-COMMERCE
-
-	Unable to examine products personally
-	Not everyone is connected to the Internet
-	There is the possibility of credit card number theft
-	Mechanical failures can cause unpredictable effects on the total processes.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
